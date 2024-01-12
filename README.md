@@ -4,7 +4,6 @@
 <p>• To provide insights into the rental market trends in Kuala Lumpur.</p>
 <p>• To determine features that affects the apartment rental price in Kuala Lumpur.</p>
 <p>• To build a predictive model capable of predicting apartment rental price in Kuala Lumpur.</p>
-<p>• To build a predictive model capable of predicting apartment rental price in Kuala Lumpur.</p>
 
 Background: Rental redictive modelling is developed as part of WQD7001 course requirement.
 <p>Link to Shiny IO App: <a href="https://rentalpriceeda.shinyapps.io/RentalPriceEDA/">HERE</a> </p>
