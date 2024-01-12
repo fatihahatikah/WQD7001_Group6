@@ -7,6 +7,8 @@
 <p>• To build a predictive model capable of predicting apartment rental price in Kuala Lumpur.</p>
 
 Background: Rental redictive modelling is developed as part of WQD7001 course requirement.
+<p>Link to Shiny IO App: <a href="https://rentalpriceeda.shinyapps.io/RentalPriceEDA/">HERE</a> </p>
+
 <p><b>Members:</b></p>
 <p>Aysswarya Saravan (17105950/2) </p>
 <p>Alvin Ryan (22118579)</p>
